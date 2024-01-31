@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "tailwindcss-init" : "npx tailwindcss init",
-    "build-css" : "tailwindcss build src/blueprint-style.css -o src/style.css"
+    "build-css" : "tailwindcss build src/blueprint-style.css -o src/style.css --watch"
   },
   "author": "",
   "license": "ISC",
